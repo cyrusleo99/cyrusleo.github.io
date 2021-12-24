@@ -1,64 +1,43 @@
-Aerial by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+<div align="center">
 
+<img src="https://i.imgur.com/qhTS2sx.jpeg" alt="FAVAS SB" width="500" />
 
-This is Aerial, a single page, single screen responsive site template. Real simple.
-Makes heavy use of CSS animation (something I've been messing with a lot lately).
-Should work well as a landing page that just directs folks to your stuff elsewhere
-on the www. Sass sources are also included, so if you've never used Sass and you're
-interested in giving it a try, head on over to sass-lang.com (and if not, you can
-safely delete the "sass/" folder).
+# FAVAS-SB
 
-The scrolling mountainous background was derived from "Icefields" by Ryan Schroeder,
-a talented photographer from Vancouver who graciously released it on Unsplash under
-the CC0 license. Be sure to check out his other stuff over at flickr (link below)
-as well as all the other kickass CC0-licensed images at Unsplash (unsplash.com).
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lemon+milk&color=F70000&lines=Welcome+to+FAVAS-SB+WA+BOT+WORLD;Created+by+Favas;This+is+a+Featured+bot;With+Love+FAVAS-SB)](https://git.io/typing-svg)
 
-Questions/comments/issues = just email or find me on Twitter. Have fun!
+</div>
 
-AJ
-aj@lkn.io | @ajlkn
+<p align="center">
 
+  <a href=""><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> 
 
-The Scrolling Background:
+  <a href="https://wa.me/919072035079"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 
-	This relies entirely on CSS to do its thing, which is cool, but that makes
-	changing it a bit weird/tricky at first. You can still use pretty much any image
-	you want, but for best results make sure yours is:
+</p>
 
-	- Horizontally tileable.
-	- Wide and short.
-	- About 1500px wide.
-	- Fades to a solid color either at the top of bottom (which is used to fill
-	  the empty space above or below your image).
+    
 
-	Now, there are two ways to use it: with CSS, or with Sass:
+<h3 align="center">𝑴𝒂𝒅𝒆 𝑾𝒊𝒕𝒉 𝐅𝚨𝛁𝚨𝐒</h3>
 
-	CSS:
+<p align="center">
 
-		Look for this line in css/style.css (line 108 as of this writing):
+  <a href="https://github.com/FAVAS-SB"><img src="https://i.imgur.com/77yCLMK.jpeg" height="128" width="128" /></a>
 
-			background: #348cb2 url("images/bg.jpg") bottom left;
+  <a href="https://github.com/FAVAS-SB"><img src="https://i.imgur.com/4SQeWcT.jpeg" height="128" width="128" /></a>
 
-		and use it to set the page background color, URL, and placement of
-		your image. It should be as close to 1500px wide as you can get it.
+  <a href="https://github.com/FAVAS-SB"><img src="https://i.imgur.com/0xTID1V.jpeg" height="128" width="128" /></a>
 
-	Sass:
+  <a href="https://github.com/FAVAS-SB"><img src="https://i.imgur.com/FA9DZzH.jpeg" height="128" width="128" /></a>
 
-		Set the value of $bg to the page background color, URL, and placement
-		of your image. Change $bg-width if your image is something other than
-		1500px wide.
+  <a href="https://github.com/FAVAS-SB"><img src="https://i.imgur.com/Qo9guYY.jpeg" height="128" width="128" /></a>
 
+</p>
 
-Credits:
+<p align="center">
 
-	Background Image:
-		Ryan Schroeder via Unsplash (unsplash.com - CC0 licensed)
-			"Icefields" (flickr.com/photos/ryanschroeder/11876741703)
+  <a href="https://github.com/FAVAS-SB"><img title="Author" src="https://img.shields.io/badge/Author-𝐅𝚨𝛁𝚨𝐒-purple.svg?style=for-the-badge&logo=github" /></a>
 
-	Icons:
-		Font Awesome (fontawesome.io)
+<p align="center">
 
-	Other:
-		Responsive Tools (github.com/ajlkn/responsive-tools)
+# CLONE THIS PROJECT  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="29px">
